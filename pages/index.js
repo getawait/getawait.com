@@ -192,10 +192,12 @@ export default function Home() {
                 <div className="lg:self-center">
                   <h2 className="text-3xl leading-9 font-extrabold text-white sm:text-4xl sm:leading-10">
                     <span className="block">Ready to dive in?</span>
-                    <span className="block">Start your free trial today.</span>
+                    <span className="block">Join our FREE open beta today!</span>
                   </h2>
-                  <p className="mt-4 text-lg leading-6 text-indigo-200">Ac euismod vel sit maecenas id pellentesque eu
-                    sed consectetur. Malesuada adipiscing sagittis vel nulla nec.</p>
+                  <p className="mt-4 text-lg leading-6 text-indigo-200">
+                    Ac euismod vel sit maecenas id pellentesque eu
+                    sed consectetur. Malesuada adipiscing sagittis vel nulla nec.
+                  </p>
                   <a
                     href="#"
                     className="mt-8 bg-white border border-transparent rounded-md shadow px-6 py-3 inline-flex items-center text-base leading-6 font-medium text-indigo-600 hover:text-indigo-500 hover:bg-gray-50 transition duration-150 ease-in-out"
