@@ -29,7 +29,7 @@ export default function () {
           </div>
           <div className="mt-8 md:mt-0 md:order-1">
             <p className="text-center text-base leading-6 text-gray-400">
-              Made with by ❤ Balázs Otakomaiya in MCR 🐝
+              Made with ❤ by Balázs Otakomaiya in MCR 🐝
             </p>
           </div>
         </div>
