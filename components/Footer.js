@@ -7,7 +7,7 @@ export default function () {
         <div className="max-w-screen-xl mx-auto py-12 px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
           <div className="flex justify-center space-x-6 md:order-2">
             <a
-              href="https://github.com/heyitsbalazs"
+              href="https://github.com/getawait"
               target='_blank'
               rel='noreferrer'
               className="text-gray-400 hover:text-gray-500"
