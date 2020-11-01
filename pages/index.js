@@ -17,12 +17,11 @@ export default function Home() {
                     <span className="block">Join our FREE open beta today!</span>
                   </h2>
                   <p className="mt-4 text-lg leading-6 text-indigo-200">
-                    Ac euismod vel sit maecenas id pellentesque eu
-                    sed consectetur. Malesuada adipiscing sagittis vel nulla nec.
+                    A beautifully crafted open-source waitlist management system, hosted in the cloud – free for our super early birds.
                   </p>
                   <a
                     href="#"
-                    className="mt-8 bg-white border border-transparent rounded-md shadow px-6 py-3 inline-flex items-center text-base leading-6 font-medium hover:bg-gray-50 transition duration-150 ease-in-out"
+                    className="mt-8 mr-4 bg-white border border-transparent rounded-md shadow px-6 py-3 inline-flex items-center text-base leading-6 font-medium hover:bg-gray-50 transition duration-150 ease-in-out"
                   >
                     Sign up for free
                   </a>
@@ -31,7 +30,7 @@ export default function Home() {
               <div className="relative pb-3/5 -mt-6 md:pb-1/2">
                 <img
                   className="absolute inset-0 w-full h-full transform translate-x-6 translate-y-6 rounded-md object-cover object-left-top sm:translate-x-16 lg:translate-y-20"
-                  src="https://tailwindui.com/img/component-images/full-width-with-sidebar.jpg"
+                  src="/screenshot.png"
                   alt="App screenshot"
                 />
               </div>
