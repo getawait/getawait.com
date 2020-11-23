@@ -8,15 +8,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "@headlessui/react": "^0.2.0",
     "@tailwindcss/ui": "^0.6.2",
     "next": "9.5.5",
     "react": "17.0.0",
     "react-dom": "17.0.0",
+    "react-runkit": "^0.9.0",
     "tailwindcss": "^1.9.5"
   },
   "devDependencies": {
+    "babel-eslint": "^10.1.0",
     "eslint": "^7.11.0",
-    "eslint-plugin-react": "^7.21.5",
-    "babel-eslint": "^10.1.0"
+    "eslint-plugin-react": "^7.21.5"
   }
 }
