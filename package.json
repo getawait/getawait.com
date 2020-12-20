@@ -9,12 +9,20 @@
   },
   "dependencies": {
     "@headlessui/react": "^0.2.0",
+    "@tailwindcss/aspect-ratio": "^0.2.0",
+    "@tailwindcss/forms": "^0.2.1",
+    "@tailwindcss/typography": "^0.3.1",
     "@tailwindcss/ui": "^0.6.2",
-    "next": "9.5.5",
+    "autoprefixer": "^9.8.6",
+    "next": "^10.0.3",
+    "postcss": "^8.2.1",
     "react": "17.0.0",
     "react-dom": "17.0.0",
     "react-runkit": "^0.9.0",
-    "tailwindcss": "^1.9.5"
+    "tailwindcss": "^2.0.2"
+  },
+  "peerDependencies": {
+    "postcss": "^8.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",

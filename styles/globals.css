@@ -9,3 +9,9 @@
 .text-fill-color-transparent {
     -webkit-text-fill-color: transparent;
 }
+
+/*For RunKit*/
+iframe {
+    width: 100% !important;
+    @apply m-auto !important lg:m-0 !important;
+}

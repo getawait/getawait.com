@@ -54,7 +54,7 @@ export default function Home() {
         <div className="bg-gray-50">
           <div className="max-w-screen-xl mx-auto py-16 px-4 sm:px-6 lg:px-8">
             <div className="bg-gradient-to-l from-teal-400 to-blue-500 rounded-lg shadow-xl overflow-hidden lg:grid lg:grid-cols-2 lg:gap-4">
-              <div className="pt-10 pb-12 px-6 sm:pt-16 sm:px-16 lg:py-16 lg:pr-0 xl:py-20 xl:px-20">
+              <div className="pt-10 pb-16 px-6 sm:pt-16 sm:px-16 lg:py-16 lg:pr-0 xl:py-20 xl:px-20">
                 <div className="lg:self-center">
                   <h2 className="text-3xl leading-9 font-extrabold text-white sm:text-4xl sm:leading-10">
                     <span className="block">Ready to dive in?</span>
