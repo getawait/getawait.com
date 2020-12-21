@@ -116,12 +116,20 @@ export default function Navbar() {
               </div>
             </div>
             <div className="hidden md:flex md:space-x-10">
-              {/*<a*/ }
-              {/*  href="#"*/ }
-              {/*  className="font-medium text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out"*/ }
-              {/*>Product</a>*/ }
+              {/*<a*/}
+              {/*  href="#"*/}
+              {/*className="font-medium text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out"*/}
+              {/*>*/}
+              {/*  Register*/}
+              {/*</a>*/}
             </div>
             <div className="hidden md:absolute md:flex md:items-center md:justify-end md:inset-y-0 md:right-0">
+              <a
+                href="https://app.getawait.com/register"
+                className="font-medium text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out mr-4"
+              >
+                Register
+              </a>
               <span className="inline-flex rounded-md shadow">
                 <a
                   href="https://app.getawait.com"
@@ -187,16 +195,16 @@ export default function Navbar() {
                   </div>
                 </div>
                 <div className="px-2 pt-2 pb-3">
-                  {/*<a*/ }
-                  {/*  href="#"*/ }
-                  {/*  className="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out"*/ }
-                  {/*  role="menuitem"*/ }
-                  {/*>Company</a>*/ }
+                  <a
+                    href="https://app.getawait.com/register"
+                    className="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out"
+                    role="menuitem"
+                  >Register</a>
                 </div>
                 <div>
                   <a
                     href="https://app.getawait.com"
-                    className="block w-full px-5 py-3 text-center font-medium text-gray-600 bg-gray-50 hover:bg-gray-100 hover:text-indigo-700 transition duration-150 ease-in-out"
+                    className="block w-full px-5 py-3 text-center font-medium text-gray-600 bg-gray-100 hover:bg-gray-100 hover:text-indigo-700 transition duration-150 ease-in-out"
                     role="menuitem"
                   >
                     Log in
